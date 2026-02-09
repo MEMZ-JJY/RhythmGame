@@ -12,12 +12,6 @@ Windows (PowerShell):
 --------------------
 Invoke-WebRequest -Uri "https://repo1.maven.org/maven2/org/json/json/20231013/json-20231013.jar" -OutFile "json-20231013.jar"
 
-Linux/Mac:
-----------
-wget https://repo1.maven.org/maven2/org/json/json/20231013/json-20231013.jar
 
-或者
-
-curl -O https://repo1.maven.org/maven2/org/json/json/20231013/json-20231013.jar
 
 将下载的 jar 文件放在此目录 (lib/) 中即可。
