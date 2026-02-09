@@ -34,6 +34,24 @@ desktop.ini
 # 日志文件
 *.log
 
+# 临时文件
+*.tmp
+*.temp
+*.bak
+*.swp
+*~
+
+# Java 相关
+*.jar
+!lib/*.jar
+
+# Python 相关
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
 env/
 ENV/
 
