@@ -1,0 +1,25 @@
+{
+  "song_name": "示例歌曲",
+  "artist": "示例作者",
+  "bpm": 120,
+  "difficulty": "Easy",
+  "music_path": "songs/example-song/music.wav",
+  "notes": [
+    {"time": 1000, "lane": 0},
+    {"time": 1500, "lane": 1},
+    {"time": 2000, "lane": 2},
+    {"time": 2500, "lane": 3},
+    {"time": 3000, "lane": 0},
+    {"time": 3500, "lane": 1},
+    {"time": 4000, "lane": 2},
+    {"time": 4500, "lane": 3},
+    {"time": 5000, "lane": 0},
+    {"time": 5000, "lane": 2},
+    {"time": 5500, "lane": 1},
+    {"time": 5500, "lane": 3},
+    {"time": 6000, "lane": 0},
+    {"time": 6000, "lane": 1},
+    {"time": 6500, "lane": 2},
+    {"time": 6500, "lane": 3}
+  ]
+}
