@@ -46,7 +46,7 @@
 
 1. **克隆仓库**
 ```bash
-git clone https://github.com/你的用户名/RhythmGame.git
+git clone https://github.com/MEMZ-JJY/RhythmGame.git
 cd RhythmGame
 ```
 
@@ -71,7 +71,7 @@ powershell
 .\co2mpile.ps1
 ```
 
-\
+
 
 4. **运行游戏**
 
